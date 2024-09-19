@@ -2,4 +2,6 @@
 
 Code change #1
 
-AWS/git Code 
+AWS/git Code
+
+Git command drill session
